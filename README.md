@@ -29,7 +29,7 @@
   2. Copy the `CopilotKeyRemapper.ahk` file into the Startup folder.
 
 ## Download
-You can download the script directly from the [Releases page](https://github.com/A-4-Atom/CopilotKeyRemap/releases/tag/v1.0.0]).
+You can download the script directly from the [Releases page](https://github.com/A-4-Atom/CopilotKeyRemap/releases/tag/v1.0.0).
 
 ## Contributing
 We welcome contributions! Please fork the repository and submit a pull request with your changes. Make sure to follow the coding standards and include tests for any new features.
