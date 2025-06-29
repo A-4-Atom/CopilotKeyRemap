@@ -38,4 +38,4 @@ We welcome contributions! Please fork the repository and submit a pull request w
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or suggestions, feel free to open an issue or contact us at vikaschauhan226@gmail.com
+For any questions or suggestions, feel free to open an issue or contact us at vikaschauhan2626@gmail.com
